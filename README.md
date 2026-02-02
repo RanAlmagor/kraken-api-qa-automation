@@ -91,7 +91,7 @@ The workflow runs on push and pull requests and uploads `reports/` as an artifac
 After you add the workflow file, you can add a badge like this (replace `<USER>`/`<REPO>`):
 
 ```md
-![CI](https://github.com/<USER>/<REPO>/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/RanAlmagor/kraken-api-qa-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/RanAlmagor/kraken-api-qa-automation/actions/workflows/ci.yml)
 ```
 
 ## Roadmap (nice upgrades for interviews)
